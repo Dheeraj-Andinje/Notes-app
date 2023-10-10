@@ -1,2 +1,2 @@
 # Notes-app
-This is basic app to store the notes
+This is basic app to store the notes.
